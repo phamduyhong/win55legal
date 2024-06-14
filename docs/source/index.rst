@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Win55 | Nơi Những Niềm Đam Mê Được Thỏa Mãn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nhà cái Win55 <https://win55.legal/>`_ là nơi những niềm đam mê được thỏa mãn. Đồng hành cùng các cược thủ với nhiều sảnh game giải trí hấp dẫn cùng với những siêu khuyến mãi tri ân thường xuyên....
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ:  121/22 Lạc Long Quân, Phường 9, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
 
-   This project is under active development.
+Phone: 0854866580
 
-Contents
---------
+Email: info@win55.legal
 
-.. toctree::
+Website: https://win55.legal/
 
-   usage
-   api
+#Win55 #trangchuWin55 #nhacaiWin55 #linkWin55 #dangkyWin55"
